@@ -1,0 +1,1 @@
+A quick and dirty Bluetooth (BLE) (privacy) random address generator and verifier. Used to verify addresses by checking the IRK using Bluetooth specification and can also generate all possible addresses for a given IRK. 
